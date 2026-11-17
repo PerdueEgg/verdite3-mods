@@ -1,0 +1,7 @@
+{
+  "id": "kf3.text",
+  "name": "Text",
+  "version": "1.0",
+  "author": "Claude",
+  "description": "New fonts for all of King's Field III's text: full upper and lower case and proportional spacing. Signs, dialogue, Truth Glass cards, descriptions and the short messages in play are redrawn from the US text in the new fonts, and the menus and names are shown in normal capitalisation. Each can be switched off. The fonts are editable character maps in the mod's fonts folder. Other mods, such as Retranslation, draw their own text with it."
+}
